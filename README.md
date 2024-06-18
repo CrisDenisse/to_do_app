@@ -1,4 +1,4 @@
-# to_do_app
+# Proyecto de Lista de Tareas
 By Denisse Arteaga
 
 ## Descripción
