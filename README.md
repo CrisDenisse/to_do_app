@@ -34,8 +34,8 @@ To Do App presenta las siguientes funcionalidades:
 3. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/evansio/TO-DO-APP-DJANGO.git
-cd TO-DO-APP-DJANGO
+git clone https://github.com/CrisDenisse/to_do_app.git
+cd to_do_app
 ```
 ### Paso 2: Crear archivo README.md
 Asegúrate de que tu README.md contenga instrucciones claras para la configuración y ejecución del proyecto.
@@ -59,7 +59,7 @@ pip freeze > requirements.txt
 ```
 ### Paso 6: Crear un superusuario
 ```bash
-cd todo_project
+cd to_do_app
 python manage.py createsuperuser
 ```
 ### Paso 7: Ejecutar el servidor de desarrollo
