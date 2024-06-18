@@ -59,6 +59,7 @@ pip freeze > requirements.txt
 ```
 ### Paso 6: Crear un superusuario
 ```bash
+cd todo_project
 python manage.py createsuperuser
 ```
 ### Paso 7: Ejecutar el servidor de desarrollo
